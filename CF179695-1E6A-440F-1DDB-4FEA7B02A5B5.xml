@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="CF179695-1E6A-440F-1DDB-4FEA7B02A5B5" ownedBy="CF179695-1E6A-440F-1DDB-4FEA7B02A5B5">
+  <arch:name>
+    <arch:string>Hacksilber Project</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Hacksilber+Project</oc:queryVal>
+    <oc:rootPath>/Israel</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string>Lead isotope and other analyses of metal objects from the Near East and Mediterranean (1500 - 500 BCE)</arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string>&lt;div&gt;
+        &lt;p&gt;The Hacksilber Project documents metals in Mediterranean and Near Eastern contexts dating between 1500 and 500 BCE, using lead isotope and other analyses to address long-standing questions of trade, connectivity, ideology and economy.&lt;/p&gt; 
+ 
+        &lt;p&gt;The Project&amp;#8217;s flagship archaeometallurgical study centers on the Cisjordan Corpus of Iron Age hacksilber hoards, and its identity as the only coherent body of silver artifacts in the Mediterranean and Near East recognized for its capacity to shed light, within a sequential, chronological framework, on the question of whether the Phoenicians had been engaged in long-distance silver-trade prior to their colonization of the western Mediterranean. The Cisjordan Corpus was identified in 2003 in the &lt;em&gt;Oxford Journal of Archaeology&lt;/em&gt; (22.1 67-107), and now comprises 36 silver hoards that span the entire Levantine Iron Age from c. 1200 to 586 BCE. The hoards have been recovered from 14 sites between Akko and Arad in today&amp;#8217;s Israel and Palestinian territories, and the Corpus remains the largest identified concentration of pre-coinage silver hoards in the ancient Near East.&lt;/p&gt;
+ 
+        &lt;p&gt;Lead isotope analyses of the silver objects in the hoards determine the extent to which the ratios of hacksilber artifacts are consistent with ore-bodies in the western and eastern Mediterranean. These data provide a basis for investigating a diachronic increase in the incorporation of silver or lead from places like Spain, Sardinia and the Aegean into the networks that reached the Levant. Related research identifies silver, gold, copper, bronze and lead in other sealed contexts from the same period, particularly graves and hoards, to define comparative data-sets. These comparanda are integrated with the data from the Cisjordan Corpus to reconstruct diachronic, contextual and regional variations in metallic preferences that reflect shifting patterns of circulation, connectivity and, sometimes, ideology.&lt;/p&gt;
+    
+    
+    &lt;/div&gt;</arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Hacksilber Project: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-09-19</dc:date>
+    <dc:subject>Market</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:subject>Monetary</dc:subject>
+    <dc:subject>Ingots</dc:subject>
+    <dc:subject>Money</dc:subject>
+    <dc:subject>Coinage</dc:subject>
+    <dc:subject>Exchange</dc:subject>
+    <dc:subject>Trade</dc:subject>
+    <dc:subject>Metallurgy</dc:subject>
+    <dc:subject>Hoards</dc:subject>
+    <dc:subject>Coins</dc:subject>
+    <dc:subject>Late Bronze Age</dc:subject>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Archaic</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Christine Thompson</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/CF179695-1E6A-440F-1DDB-4FEA7B02A5B5</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CF179695-1E6A-440F-1DDB-4FEA7B02A5B5" pub_status="forthcoming">Hacksilber Project</oc:project_name>
+    <oc:pub_date>2012-09-19T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Hacksilber+Project%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Market&amp;rft.subject=Economy&amp;rft.subject=Monetary&amp;rft.subject=Ingots&amp;rft.subject=Money&amp;rft.subject=Coinage&amp;rft.subject=Exchange&amp;rft.subject=Trade&amp;rft.subject=Metallurgy&amp;rft.subject=Hoards&amp;rft.subject=Coins&amp;rft.subject=Late+Bronze+Age&amp;rft.subject=Iron+Age&amp;rft.subject=Archaic&amp;rft.creator=Christine+Thompson&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2FCF179695-1E6A-440F-1DDB-4FEA7B02A5B5</oc:coins>
+  <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M74M92GB">10.6078/M74M92GB</dc:identifier></oc:metadata>
+</arch:project>

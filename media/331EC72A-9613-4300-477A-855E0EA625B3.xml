@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="331EC72A-9613-4300-477A-855E0EA625B3" ownedBy="CF179695-1E6A-440F-1DDB-4FEA7B02A5B5" type="">
+  <arch:name>
+    <arch:string>Database Thompson and Skaggs 2013 (2) Corrections Complete Final Sept 4</arch:string>
+  </arch:name>
+  <arch:links>
+    <arch:docID type="resource" info="Alternate version">7D50CCDF-1307-4FF9-800E-7306C1E28A22</arch:docID>
+    <arch:docID type="person" info="Creator">7773315C-55F7-4146-35DE-A85A68722641</arch:docID>
+    <arch:docID type="person" info="Creator">841577A6-44C0-488F-D123-F8607C1AFA6E</arch:docID>
+    <arch:docID type="spatialUnit" info="link">75C36AAC-39DD-48A2-72B4-35D726349D0F</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/75C36AAC-39DD-48A2-72B4-35D726349D0F">
+        <oc:name>Mediterranean Sea</oc:name>
+        <oc:id>75C36AAC-39DD-48A2-72B4-35D726349D0F</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context/>
+      </oc:link>
+    </oc:space_links>
+    <oc:media_links>
+      <oc:link href="http://opencontext.org/media/7D50CCDF-1307-4FF9-800E-7306C1E28A22">
+        <oc:name>Hacksilber Project Database 1 Galena in the Mediterranean Basin Final Sept 4</oc:name>
+        <oc:id>7D50CCDF-1307-4FF9-800E-7306C1E28A22</oc:id>
+        <oc:relation>Alternate version</oc:relation>
+        <oc:type/>
+        <oc:thumbnailURI>http://artiraq.org/static/opencontext/hacksilver/thumbs/ore-tab.png</oc:thumbnailURI>
+      </oc:link>
+    </oc:media_links>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/7773315C-55F7-4146-35DE-A85A68722641" cite="contributor">
+        <oc:name>Christine Thompson</oc:name>
+        <oc:id>7773315C-55F7-4146-35DE-A85A68722641</oc:id>
+        <oc:relation>Creator</oc:relation>
+      </oc:link>
+      <oc:link href="http://opencontext.org/persons/841577A6-44C0-488F-D123-F8607C1AFA6E" cite="contributor">
+        <oc:name>Sheldon Skaggs</oc:name>
+        <oc:id>841577A6-44C0-488F-D123-F8607C1AFA6E</oc:id>
+        <oc:relation>Creator</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note>
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+<p>This Excel spreadsheet describes lead isotope ratios for ore samples collected at mining sites around the Mediterranean basin.  The ratio data originated from several published sources, as noted in spreadsheet.
+</p>
+<p>The dataset represented in this spreadsheet file represents a first step toward linking ore sample isotopic data with isotopic data measured from archaeological finds.</p>
+</div>
+        </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <arch:content>
+    <arch:externalFileInfo>
+      <arch:fileFormat/>
+      <oc:FileInfo>
+        <oc:FileSize ReadSize="250 KB">256000</oc:FileSize>
+        <oc:FileName>Database Thompson and Skaggs 2013 (2) Corrections Complete Final Sept 4.xls</oc:FileName>
+      </oc:FileInfo>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/hacksilver/full/Database%20Thompson%20and%20Skaggs%202013%20(2)%20Corrections%20Complete%20Final%20Sept%204.xls</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/hacksilver/preview/ore-tab.png</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/hacksilver/thumbs/ore-tab.png</arch:thumbnailURI>
+    </arch:externalFileInfo>
+  </arch:content>
+  <oc:metadata>
+    <dc:title>Hacksilber Project: Database Thompson and Skaggs 2013 (2) Corrections Complete Final Sept 4</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-09-04</dc:date>
+    <dc:contributor href="http://opencontext.org/persons/7773315C-55F7-4146-35DE-A85A68722641">Christine Thompson</dc:contributor>
+    <dc:contributor href="http://opencontext.org/persons/841577A6-44C0-488F-D123-F8607C1AFA6E">Sheldon Skaggs</dc:contributor>
+    <dc:identifier>http://opencontext.org/media/331EC72A-9613-4300-477A-855E0EA625B3</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M78913SW">10.6078/M78913SW</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CF179695-1E6A-440F-1DDB-4FEA7B02A5B5" editStatus="0" statusURI="http://purl.org/ontology/bibo/status/unpublished" statusDes="Not published or placeholder content" statusLabel="Placeholder">Hacksilber Project</oc:project_name>
+    <oc:pub_date>2013-09-04T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Hacksilber+Project%3A+Database+Thompson+and+Skaggs+2013+%282%29+Corrections+Complete+Final+Sept+4&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.contributor=Christine+Thompson&amp;rft.contributor=Sheldon+Skaggs&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fmedia%2F331EC72A-9613-4300-477A-855E0EA625B3&amp;rft.identifier=doi%3A10.6078%2FM78913SW</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat/>
+      <oc:geo_long/>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/331EC72A-9613-4300-477A-855E0EA625B3">
+        <oc:source_name/>
+        <oc:source_id>331EC72A-9613-4300-477A-855E0EA625B3</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-09-04T22:04:27-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/09/04 22:04:27</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:resource>
